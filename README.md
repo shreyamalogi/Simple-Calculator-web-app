@@ -50,6 +50,6 @@ Copyright (c) 2023 Shreya Malogi
 
 ## Contribute
 
-Found a bug or have a feature request? [Open an issue](https://github.com/yourusername/simple-calculator/issues) or [fork the project](https://github.com/yourusername/simple-calculator/fork) and submit a pull request. Your contributions are always welcome!
+Found a bug or have a feature request? Open an issue or fork the project and submit a pull request. Your contributions are always welcome!
 
 If you find this project useful, please consider giving it a star on GitHub to show your support. Thank you!
