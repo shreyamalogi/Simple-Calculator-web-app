@@ -1,3 +1,6 @@
+![simple calculator](https://github.com/shreyamalogi/Simple-Calculator-web-app/blob/main/CALCULATOR/output%20video/simplecalcigif.gif)
+
+
 # Simple Calculator web app
 
 
@@ -39,6 +42,11 @@ Are you looking for a quick and easy way to perform basic calculations without i
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+MIT License
+
+Copyright (c) 2023 Shreya Malogi
+
 
 ## Contribute
 
